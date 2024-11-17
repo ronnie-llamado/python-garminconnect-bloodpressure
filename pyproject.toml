@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/Ronnie Llamado/python-garminconnect-bloodpressure#readme"
-Issues = "https://github.com/Ronnie Llamado/python-garminconnect-bloodpressure/issues"
-Source = "https://github.com/Ronnie Llamado/python-garminconnect-bloodpressure"
+Documentation = "https://github.com/ronnie-llamado/python-garminconnect-bloodpressure#readme"
+Issues = "https://github.com/ronnie-llamado/python-garminconnect-bloodpressure/issues"
+Source = "https://github.com/ronnie-llamado/python-garminconnect-bloodpressure"
 
 [tool.hatch.version]
 path = "src/python_garminconnect_bloodpressure/__about__.py"
